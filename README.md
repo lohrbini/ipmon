@@ -56,4 +56,3 @@ docker run -d \
   -e SLEEP_INTERVAL=600 \
   ipmon
 ```
-

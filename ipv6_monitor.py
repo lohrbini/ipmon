@@ -129,5 +129,3 @@ if __name__ == "__main__":
         monitor_ipv6_addresses()
         logging.info(f"Sleeping for {SLEEP_INTERVAL} seconds...")
         time.sleep(SLEEP_INTERVAL)
-
-git remote add origin https://git.skl.works/python/ipmon.git
